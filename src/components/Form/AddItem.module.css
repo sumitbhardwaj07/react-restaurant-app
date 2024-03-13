@@ -1,0 +1,6 @@
+
+  .orderitem, .price, .delete {
+    display: inline-block;
+    width: 400px;
+  }
+  
